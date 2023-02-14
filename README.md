@@ -1,7 +1,7 @@
 ### Salvēte
 安寧
 
-contact.html  # => https://nymphicosaurushollandicus0394.github.io/NH0394_Locus01/contact
+
 
 
 <FONT SIZE=6>
