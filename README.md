@@ -7,7 +7,7 @@
 
 
 <FONT SIZE=6>
-															<RB>甚</RB><RP>(</RP><RT><FONT SIZE=4>심</FONT><BR> </RT><RP>)</RP><RB>深</RB><RP>(</RP><RT><FONT SIZE=4>심</FONT><BR> </RT><RP>)</RP>해
+	<RB>심심해
 					<P>
 						
 
